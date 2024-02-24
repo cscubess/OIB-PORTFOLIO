@@ -1,5 +1,5 @@
-# Attendance-sheet-
-# Student Attendance sheet System
+# Portfolio
+# Portfolio Manage
 
 ![GitHub](https://img.shields.io/github/license/cscubess/OIB-PORTFOLIO)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cscubess/OIB-PORTFOLIO)
